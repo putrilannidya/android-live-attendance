@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Live Attendance App</string>
+    <string name="hello_sign_in_akun_kamu_disini">Hello, Sign in akun kamu disini</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
 </resources>
