@@ -5,11 +5,12 @@
     <string name="password">password</string>
     <string name="login">login</string>
     <string name="forgot_password">Forgot Password</string>
-    <string name="history">history</string>
+    <string name="history">History</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="your_photo">your_photo</string>
     <string name="current_location">current_location</string>
     <string name="default_text">-</string>
     <string name="check_in">Check In</string>
+    <string name="check_out">Check-out</string>
 </resources>
