@@ -11,7 +11,7 @@
         android:id="@+id/action_attendance"
         android:title="@string/history"
         android:icon="@drawable/ic_baseline_location_on_24"
-        app:showAsAction="always"/>
+        app:showAsAction="ifRoom"/>
 
     <item
         android:id="@+id/action_profile"

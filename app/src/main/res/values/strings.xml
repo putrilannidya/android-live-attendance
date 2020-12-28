@@ -8,4 +8,8 @@
     <string name="history">history</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="your_photo">your_photo</string>
+    <string name="current_location">current_location</string>
+    <string name="default_text">-</string>
+    <string name="check_in">Check In</string>
 </resources>
