@@ -4,13 +4,13 @@ import com.google.gson.annotations.SerializedName
 
 data class LoginResponse(
 
-	@field:SerializedName("data")
-	val user: Data? = null,
+		@field:SerializedName("data")
+	val user: User? = null,
 
-	@field:SerializedName("meta")
+		@field:SerializedName("meta")
 	val meta: Meta? = null,
 
-	@field:SerializedName("message")
+		@field:SerializedName("message")
 	val message: String? = null
 )
 
@@ -20,7 +20,7 @@ data class Meta(
 	val token: String? = null
 )
 
-data class Data(
+data class User(
 
 	@field:SerializedName("is_admin")
 	val isAdmin: Int? = null,
