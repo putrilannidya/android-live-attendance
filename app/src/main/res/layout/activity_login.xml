@@ -59,7 +59,7 @@
                 android:background="@drawable/bg_edit_text"
                 android:paddingStart="16dp"
                 android:paddingEnd="16dp"
-                android:inputType="textEmailAddress"
+                android:inputType="textPassword"
                 android:hint="@string/password"/>
         </com.google.android.material.textfield.TextInputLayout>
 
